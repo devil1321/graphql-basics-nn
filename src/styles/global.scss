@@ -1,0 +1,17 @@
+h1,h3,p,button,li,label,select{
+    font-family: $f-fam;
+}
+h1{
+    color:#444;
+    text-align: center;
+}
+body{
+    background: #f1f1ff;
+
+}
+.main{
+    padding: 0px;
+    box-sizing: border-box;
+    width: 60%;
+    height: 100%;
+}
